@@ -4,6 +4,9 @@ date: 2019-07-26 18:00
 categories: Algoritm
 ---
 
+```class
+baekjoon 미로찾기
+```
 ```cpp
 #include <iostream>
 #include <algorithm>
