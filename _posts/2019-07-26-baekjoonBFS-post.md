@@ -25,9 +25,9 @@ bartender, dozer와 같은 메뉴바 정리 앱으로 정리를 했는데도 말
 
 ### CurserSense :credit_card:  
 
-  Apple Magic Mouse를 사용중이라면 필수 설치 앱  
-  워낙 느린 매직 마우스의 속도를 증가시킨다, 단순 증가가 아니라 가속도에 따른 조절 등
-  아주 디테일한 수정이 가능하다.
+  ###### Apple Magic Mouse를 사용중이라면 필수 설치 앱  
+  ###### 워낙 느린 매직 마우스의 속도를 증가시킨다, 단순 증가가 아니라 가속도에 따른 조절 등
+  ###### 아주 디테일한 수정이 가능하다.
 
 ### BetterTouchTool :small_blue_diamond:
 
