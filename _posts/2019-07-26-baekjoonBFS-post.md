@@ -3,9 +3,9 @@ title: "백준-미로찾기"
 date: 2019-07-26 18:00
 categories: Algoritm BFS
 ---
-
-#####현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
-
+###
+현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
+###
 지금까지 설치한 앱들이 너무 많고 메뉴바 또한 넘처나기 직전이다.  
 bartender, dozer와 같은 메뉴바 정리 앱으로 정리를 했는데도 말이다.
 
@@ -21,7 +21,7 @@ bartender, dozer와 같은 메뉴바 정리 앱으로 정리를 했는데도 말
 :small_blue_diamond:는 유료앱이며, SetApp에서 사용가능한 앱을 나타낸다.  
 (본인은 구독형 앱스토어라고 할 수 있는 SetApp이라는 서비스를 구독하고 있다. 구독하고 있으면 SetApp에 있는 앱들은 모두 무료로 받을 수 있다)
 
-## 필수 설치 Apps
+##### 필수 설치 Apps
 
 ### CurserSense :credit_card:  
 
