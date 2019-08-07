@@ -6,7 +6,9 @@ categories: Algoritm BFS
 
 ![](aa.png){: width="30" height="30"}
 <div>
- <img src="aa.png" width="90%"></img>
+ <img width="200" src="aa.png"></img>
+ <img width="200" src="aa.png"></img>
+ <img width="200" src="aa.png"></img>
 </div
 
 ###
