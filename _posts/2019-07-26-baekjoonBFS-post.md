@@ -6,10 +6,7 @@ categories: Algoritm BFS
 
 <div>
  <img width="300" src="../asset/aa.png"></img>
- <img width="300" src="./asset/aa.png"></img>
- <img width="200" src="aa.png"></img>
- <img width="200" src="aa.png"></img>
-</div
+</div>
 
 ###
 현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
