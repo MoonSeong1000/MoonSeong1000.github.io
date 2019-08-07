@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "What 2 do"
+title                    : "MunSeong's Study"
 title_separator          : "-"
 name                     : "JGS"
-description              : "Algoritm"
+description              : "project"
 url                      : "https://MoonSeong1000.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "MoonSeong1000/MoonSeong1000.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "Moon-Seong, Cheon"
   avatar           : "/assets/JGS.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jang__gz"
+  bio              : "moon_sung2"
   location         : "Ansan, South Korea(+82)"
-  email            : "Email" 
+  email            : "cms9586@naver.com" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
