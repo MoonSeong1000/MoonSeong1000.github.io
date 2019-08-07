@@ -5,7 +5,8 @@ categories: Algoritm BFS
 ---
 
 <div>
- <img width="200" src="../asset/aa.png"></img>
+ <img width="300" src="../asset/aa.png"></img>
+ <img width="300" src="./asset/aa.png"></img>
  <img width="200" src="aa.png"></img>
  <img width="200" src="aa.png"></img>
 </div
