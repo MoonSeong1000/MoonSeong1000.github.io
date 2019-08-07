@@ -4,7 +4,6 @@ date: 2019-07-26 18:00
 categories: Algoritm BFS
 ---
 
-![](aa.png){: width="30" height="30"}
 <div>
  <img width="200" src="aa.png"></img>
  <img width="200" src="aa.png"></img>
