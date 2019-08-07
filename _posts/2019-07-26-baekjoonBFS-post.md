@@ -3,6 +3,9 @@ title: "백준-미로찾기"
 date: 2019-07-26 18:00
 categories: Algoritm BFS
 ---
+
+![](aa.png)
+
 ###
 현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
 ###
