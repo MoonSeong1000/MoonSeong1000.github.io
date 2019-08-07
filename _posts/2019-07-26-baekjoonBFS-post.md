@@ -4,7 +4,7 @@ date: 2019-07-26 18:00
 categories: Algoritm BFS
 ---
 
-현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
+#####현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
 
 지금까지 설치한 앱들이 너무 많고 메뉴바 또한 넘처나기 직전이다.  
 bartender, dozer와 같은 메뉴바 정리 앱으로 정리를 했는데도 말이다.
