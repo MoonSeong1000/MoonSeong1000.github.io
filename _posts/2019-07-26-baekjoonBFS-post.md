@@ -5,6 +5,9 @@ categories: Algoritm BFS
 ---
 
 ![](aa.png){: width="30" height="30"}
+<div>
+ <img src="aa.png" width="90%"></img>
+</div
 
 ###
 현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
