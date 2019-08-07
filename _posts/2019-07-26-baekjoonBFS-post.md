@@ -4,7 +4,7 @@ date: 2019-07-26 18:00
 categories: Algoritm BFS
 ---
 
-![](aa.png)
+![](aa.png){: width="100" height="100"}
 
 ###
 현재 mac Catalina developer beta의 환경으로 사용하고 있었는데,
